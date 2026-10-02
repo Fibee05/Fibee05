@@ -23,13 +23,6 @@ Data Engineer with 4+ years in data and analytics and 10+ enterprise projects de
 
 <br><br>
 
-| Organization | Role | Period |
-|:--|:--|:--|
-| **ITLA** | Data Analyst | Sept. 2022 – Dec. 2023 |
-| **Solvex Dominicana** | Data Engineer | Mar. 2024 – Present |
-| ↳ *AFP Siembra (contract)* | Lakehouse Architect · Fabric + Databricks | Oct. 2025 – Present |
-| **UNAPEC** | English Teacher (part-time) | Jan. 2025 – Apr. 2026 |
-
 </div>
 
 ---
