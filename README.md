@@ -9,9 +9,6 @@ Santo Domingo, Dominican Republic · Bilingual English / Spanish · Open to remo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fiordaliza_Regalado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fiordaliza-regalado-b53a33282)
 [![Email](https://img.shields.io/badge/Email-Fiordalizaa@icloud.com-1f3f60?style=for-the-badge&logo=icloud&logoColor=white)](mailto:Fiordalizaa@icloud.com)
 
-</div>
-
----
 
 ### About me
 
