@@ -19,9 +19,7 @@ Data Engineer with 4+ years in data and analytics and 10+ enterprise projects de
 
 <div align="center">
 
-<br>
 
-<img src="career-timeline.png" alt="Career timeline" width="900">
 
 <br><br>
 
